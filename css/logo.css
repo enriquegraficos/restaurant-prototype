@@ -1,0 +1,12 @@
+.logo img {
+    margin-top: 35px;
+    
+
+}
+
+@media screen and (max-width: 992px) {
+    .logo {
+        display: none;
+
+        
+    }

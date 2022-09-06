@@ -1,0 +1,26 @@
+.container-three{
+    display: grid;
+    grid-auto-rows: auto;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 112px;
+    margin-left: 97px;
+    margin-right: 97px;
+}
+
+.container-information-two h2 {
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-information-two .description-profile{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    color: #00000080;
+}
+
+.container-image-people img{
+    width: 100%;
+}
+

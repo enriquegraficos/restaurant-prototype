@@ -1,0 +1,29 @@
+@import url(./fonts.css);
+@import url(./menu.css);
+@import url(./buttons.css);
+@import url(./logo.css);
+@import url(./slider.css);
+@import url(./cards.css);
+@import url(./menu-food.css);
+@import url(./container-three.css);
+@import url(./menu-footer.css);
+
+*{
+    box-sizing: border-box;
+   
+  
+}
+
+
+html{
+    background-color: #E8E8FF;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    min-width: 312px;
+    
+}
+

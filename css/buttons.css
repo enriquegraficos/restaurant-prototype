@@ -1,0 +1,41 @@
+
+.buttons{
+    margin-top: 35px;
+    
+
+
+}
+
+.buttons .search{
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+    background-color:#EC6083;
+    border: 0px;
+
+}
+
+.buttons .car{
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+    background-color:#A18EE5;
+    border: 0px;
+
+}
+
+.buttons .user{
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+    background-color:#212135;
+    border: 0px;
+
+}
+
+
+@media screen and (max-width: 992px) {
+    .buttons {
+        display: none;
+        
+    }
